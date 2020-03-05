@@ -1,0 +1,10 @@
+{
+  "name": "iclient3d-10i",
+  "version": "1.0.0",
+  "iclientVersion": "10.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}

@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/lyon/.nvm/versions/node/v10.16.3/bin/node /Users/lyon/.yarn/bin/yarn.js init
+
+PATH: 
+  /usr/local/opt/php@7.2/sbin:/usr/local/opt/php@7.2/bin:/Users/lyon/.yarn/bin:/Users/lyon/.config/yarn/global/node_modules/.bin:/Users/lyon/.sdkman/candidates/java/current/bin:/Users/lyon/torch/install/bin:/Users/lyon/.pyenv/plugins/pyenv-virtualenv/shims:/Users/lyon/.pyenv/shims:/Users/lyon/.pyenv/bin:/Users/lyon/.rbenv/shims:/Users/lyon/.rbenv/bin:/usr/local/mysql/bin:/usr/local/bin/apache-ant-1.10.5/bin:/usr/local/bin/apache-maven-3.6.0/bin:/Users/lyon/.nvm/versions/node/v10.16.3/bin:.git/safe/../../bin:/Users/lyon/.bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/Library/TeX/texbin:/usr/local/go/bin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin:/Users/lyon/workspace/kafka_2.11-2.2.1/bin:/Users/lyon/flutter/bin:/Users/lyon/workspace/kafka/kafka_2.12-2.3.1/bin:/Users/lyon/workspace/go/GOWORKSPACE/bin
+
+Yarn version: 
+  1.21.1
+
+Node version: 
+  10.16.3
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/lyon/.yarn/lib/cli.js:136925:13)
+      at Interface.emit (events.js:198:13)
+      at Interface._ttyWrite (readline.js:801:16)
+      at ReadStream.onkeypress (readline.js:184:10)
+      at ReadStream.emit (events.js:198:13)
+      at emitKeys (internal/readline.js:424:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1075:36)
+      at ReadStream.emit (events.js:198:13)
+      at addChunk (_stream_readable.js:288:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
